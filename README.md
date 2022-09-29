@@ -1,7 +1,7 @@
 
 # Hi, I'm samuel cardozo! 👋
 
-                    ![banner-gif-welcome](https://user-images.githubusercontent.com/114431024/193146188-588462d2-f2e4-4b49-8e5a-21674e57b09c.gif)
+![banner-gif-welcome](https://user-images.githubusercontent.com/114431024/193146188-588462d2-f2e4-4b49-8e5a-21674e57b09c.gif)
 
 ## 🚀 About Me
 I'm a student from the university EAN of mechatronic in colombia from colombia

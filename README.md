@@ -1,7 +1,8 @@
 
 # Hi, I'm samuel cardozo! 👋
 
-![welcome (1)](https://user-images.githubusercontent.com/114431024/193147208-86ab44ce-7618-4f9d-b912-79cbbf092e14.gif)![rikka-takanashi-takanashi-rikka](https://user-images.githubusercontent.com/114431024/193146632-3205674e-466f-442f-bdbf-b68e1a69a7c4.gif)
+![welcome (1)](https://user-images.githubusercontent.com/114431024/193147208-86ab44ce-7618-4f9d-b912-79cbbf092e14.gif)
+![rikka-takanashi-takanashi-rikka](https://user-images.githubusercontent.com/114431024/193146632-3205674e-466f-442f-bdbf-b68e1a69a7c4.gif)
 
 ## 🚀 About Me
 I'm a student from the university EAN of mechatronic in colombia from colombia
